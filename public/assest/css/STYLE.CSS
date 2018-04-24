@@ -1,0 +1,7 @@
+footer {
+    background-color: firebrick;
+    color: white;
+    width: 100%;
+    position: fixed;
+    text-align: center
+}
