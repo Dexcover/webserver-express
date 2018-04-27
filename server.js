@@ -20,9 +20,9 @@ app.get('/', function(req, res) {
 
 });
 
-app.get('/about', function(req, res) {
+app.get('/new', function(req, res) {
 
-    res.render('about');
+    res.render('home-new');
 
 });
 
